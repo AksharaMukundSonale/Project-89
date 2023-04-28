@@ -3,8 +3,17 @@ body{
 }
 .login_div1 , .login_div2
 {
-    background: white;
+    background: #bb62de;
     padding: 10px;
     float: none;
     border-radius: 15px;
+}
+#output
+{
+background: #bb62de;
+border-radius: 10px;
+border-top: 10px solid #1a054d;
+padding: 10px;
+float: none;
+text-align: left;
 }
